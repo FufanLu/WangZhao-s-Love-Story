@@ -79,9 +79,9 @@
 
 ## 文件说明
 
-- `流水落花春去也.txt` - 第一世的青春校园故事
-- `逆天剑尊.txt` - 第二世的仙侠修真故事
-- `逆陨之心：三生之约.txt` - 第三世的维度穿越故事
+- `流水落花春去也.pdf` - 第一世的青春校园故事
+- `逆天剑尊.pdf` - 第二世的仙侠修真故事
+- `逆陨之心：三生之约.pdf` - 第三世的维度穿越故事
 
 ## 后续计划
 
@@ -174,9 +174,9 @@ This repository is a literary exploration of the "Three Lives, Three Worlds" the
 
 ## File Description
 
-- `flowing_water_falling_flowers.txt` - The campus youth story of the first life
-- `supreme_sword_sovereign.txt` - The immortal cultivation story of the second life
-- `heart_of_reverse_meteor.txt` - The dimensional crossing story of the third life
+- `flowing_water_falling_flowers.pdf` - The campus youth story of the first life
+- `supreme_sword_sovereign.pdf` - The immortal cultivation story of the second life
+- `heart_of_reverse_meteor.pdf` - The dimensional crossing story of the third life
 
 ## Future Plans
 
