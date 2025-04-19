@@ -1,99 +1,3 @@
-# Three Lives, Three Worlds: The Multiverse of Wang Zhao and Wang Shui
-
-This repository contains three distinct stories about the lovers Wang Zhao and Wang Shui who transcend time and space. Each story presents their meeting, understanding, and commitment to each other in different world lines and settings. From a realistic campus romance to a cultivation world of immortal arts, to a fantastic parallel universe, witness their legendary love story across three lives.
-
-## Story Synopses
-
-### First Life: "Flowing Water, Falling Flowers, Spring Passes" - A Tender Campus Romance
-
-A story about pure high school love. Wang Zhao, an ordinary boy, reunites with the excellent student Wang Shui under a cherry blossom tree, starting a tender and beautiful romance. However, insecurity and mistrust eventually lead to the breakdown of this relationship. This is a youth tale about growth, trust, and regret.
-
-> "Youth is like poetry, beautiful yet fleeting; love is like a dream, passionate yet fragile. Their story ended not because of betrayal or distance, but because both had yet to learn how to truly love."
-
-### Second Life: "Supreme Sword Sovereign Against the Heavens" - A Legend of Defying Fate
-
-In this world of immortal cultivation, Wang Zhao is the "waste" despised by everyone in the Lingxiao Sect, while Wang Shui is a talented disciple of the Tianhe Sect with extraordinary abilities. When Wang Zhao awakens his Sword Soul, the two join forces to fight against Tao Liping, the representative of Heaven's Will, breaking the shackles of the cultivation world and creating a new era. This is a passionate story about defying fate and fighting side by side.
-
-> "From now on, I, Wang Zhao, am no longer the waste that everyone can bully, but the Supreme Sword Sovereign Against the Heavens!"
-
-### Third Life: "Heart of Reverse Meteor: Three-Life Promise" - A Fantastic Love Across Dimensions
-
-In this fantasy story, Wang Zhao is a college student with a soul that traverses three lifetimes, while Xu Ying (Wang Shui) is his guardian who has followed him through these lives. They must fight together against the dimensional hunter Tao Liping while gradually uncovering memories and bonds from their previous lives. This is a fantasy legend about destiny, protection, and transcendence.
-
-> "With the stars as witness and the moonlight as pledge, three lives, three worlds, life after life, my heart belongs only to you. No matter what identities we meet in the next life, I will recognize you at first sight, and then love and protect you with all my strength."
-
-## Main Characters
-
-### Wang Zhao
-- First Life: A high school student, introverted but deeply affectionate
-- Second Life: An outer disciple of Lingxiao Sect, later awakens Sword Soul to become the Supreme Sword Sovereign
-- Third Life: A college student with a soul that traverses three lifetimes, with unlimited potential
-
-### Wang Shui/Xu Ying
-- First Life: An excellent high school student, cheerful and gentle
-- Second Life: A talented disciple of Tianhe Sect, possessing the rare "Water Spirit Body"
-- Third Life: Campus beauty Xu Ying, actually a guardian who has followed Wang Zhao through three lives
-
-## Supporting Characters
-
-### Xie Weixin
-- First Life: Wang Zhao's friend, lively and outgoing, a key character driving the story
-- Second Life: The top inner disciple of Lingxiao Sect, known as the "Star Immortal Swordsman," possessing part of the Heaven-Defying Sword Soul
-- Third Life: Wang Zhao's close friend, secretly his guardian from the stars, able to foresee crises
-
-### Tang Jiajun
-- First Life: Class monitor of Class 4, Grade 2, Wang Shui's friend, righteous and kind
-- Second Life: A wandering knight in the martial world, nicknamed "War God," with an unruly personality, also possessing part of the Heaven-Defying Sword Soul
-- Third Life: President of the Fighting Club, emanating a warrior's aura, harboring memories of the War God from previous lives
-
-### Tao Liping
-- First Life: English teacher, kind and gentle, often providing psychological guidance to students
-- Second Life: Elder of Lingxiao Sect, seemingly benevolent but actually insidious, representative of Heaven's Will, specializing in hunting Sword Soul possessors
-- Third Life: A seemingly strict counselor, actually a dimensional evil spirit that devours special souls
-
-### Ma Taiyang
-- Appears in Third Life: Leader of the Chips Police Special Action Group, specialized in combating prohibited foods that may cause dimensional chaos
-
-### Li Jingjie
-- Appears in Third Life: An exchange student from Japan who appears to be a master of swordsmanship, actually a dimensional traveler with the ability to cross dimensions
-
-### Yu Zecheng
-- Appears in Third Life: A genius from the School of Science and Engineering, a mad scientist researching the transformation between dimensional energy and physical matter
-
-### Lu Fufan
-- Appears in Third Life: Special envoy of the International Dimensional Management Bureau, monitoring dimensional balance and the dynamics of reincarnators
-
-## Themes of Three Lives
-
-These three stories showcase different aspects of love and growth:
-
-1. **Growth and Trust** - From immaturity to maturity, from insecurity to confidence, the relationship between Wang Zhao and Wang Shui continues to evolve across three lives
-2. **Destiny and Resistance** - From powerless against fate to defying heaven's will, to breaking dimensional constraints
-3. **Protection and Sacrifice** - The essence of love is protection and sacrifice, regardless of which world
-
-## About This Repository
-
-This repository is a literary exploration of the "Three Lives, Three Worlds" theme, presenting the love story of the same couple across different world lines through various literary genres (campus youth, immortal cultivation, fantasy sci-fi). The three stories can be read independently or as a whole to experience a love story that transcends time and space.
-
-> "That promise at the stairway, those two simple bottles of yogurt, became the most beautiful and painful memories of youth. Like falling stars in the night sky, though shattered, they still shine brilliantly."
-
-## File Description
-
-- `flowing_water_falling_flowers.txt` - The campus youth story of the first life
-- `supreme_sword_sovereign.txt` - The immortal cultivation story of the second life
-- `heart_of_reverse_meteor.txt` - The dimensional crossing story of the third life
-
-## Future Plans
-
-- [ ] Add illustrations for each story
-- [ ] Supplement more world-building materials for the three worlds
-- [ ] Consider creating sequel stories after the three lives
-
----
-
-© 2025 LFF‘s Literary Project | All Rights Reserved
-
-
 # 三生三世：汪昭与王水的多元宇宙
 
 这个仓库收录了关于汪昭与王水这对跨越时空的恋人的三个不同故事。每个故事展现了他们在不同世界线、不同设定中的相遇、相知与相守。从现实的校园爱情，到仙侠的修真世界，再到奇幻的平行宇宙，见证他们跨越三生的爱情传奇。
@@ -188,3 +92,98 @@ This repository is a literary exploration of the "Three Lives, Three Worlds" the
 ---
 
 © 2025 LFF文学项目 | 保留所有权利
+
+# Three Lives, Three Worlds: The Multiverse of Wang Zhao and Wang Shui
+
+This repository contains three distinct stories about the lovers Wang Zhao and Wang Shui who transcend time and space. Each story presents their meeting, understanding, and commitment to each other in different world lines and settings. From a realistic campus romance to a cultivation world of immortal arts, to a fantastic parallel universe, witness their legendary love story across three lives.
+
+## Story Synopses
+
+### First Life: "Flowing Water, Falling Flowers, Spring Passes" - A Tender Campus Romance
+
+A story about pure high school love. Wang Zhao, an ordinary boy, reunites with the excellent student Wang Shui under a cherry blossom tree, starting a tender and beautiful romance. However, insecurity and mistrust eventually lead to the breakdown of this relationship. This is a youth tale about growth, trust, and regret.
+
+> "Youth is like poetry, beautiful yet fleeting; love is like a dream, passionate yet fragile. Their story ended not because of betrayal or distance, but because both had yet to learn how to truly love."
+
+### Second Life: "Supreme Sword Sovereign Against the Heavens" - A Legend of Defying Fate
+
+In this world of immortal cultivation, Wang Zhao is the "waste" despised by everyone in the Lingxiao Sect, while Wang Shui is a talented disciple of the Tianhe Sect with extraordinary abilities. When Wang Zhao awakens his Sword Soul, the two join forces to fight against Tao Liping, the representative of Heaven's Will, breaking the shackles of the cultivation world and creating a new era. This is a passionate story about defying fate and fighting side by side.
+
+> "From now on, I, Wang Zhao, am no longer the waste that everyone can bully, but the Supreme Sword Sovereign Against the Heavens!"
+
+### Third Life: "Heart of Reverse Meteor: Three-Life Promise" - A Fantastic Love Across Dimensions
+
+In this fantasy story, Wang Zhao is a college student with a soul that traverses three lifetimes, while Xu Ying (Wang Shui) is his guardian who has followed him through these lives. They must fight together against the dimensional hunter Tao Liping while gradually uncovering memories and bonds from their previous lives. This is a fantasy legend about destiny, protection, and transcendence.
+
+> "With the stars as witness and the moonlight as pledge, three lives, three worlds, life after life, my heart belongs only to you. No matter what identities we meet in the next life, I will recognize you at first sight, and then love and protect you with all my strength."
+
+## Main Characters
+
+### Wang Zhao
+- First Life: A high school student, introverted but deeply affectionate
+- Second Life: An outer disciple of Lingxiao Sect, later awakens Sword Soul to become the Supreme Sword Sovereign
+- Third Life: A college student with a soul that traverses three lifetimes, with unlimited potential
+
+### Wang Shui/Xu Ying
+- First Life: An excellent high school student, cheerful and gentle
+- Second Life: A talented disciple of Tianhe Sect, possessing the rare "Water Spirit Body"
+- Third Life: Campus beauty Xu Ying, actually a guardian who has followed Wang Zhao through three lives
+
+## Supporting Characters
+
+### Xie Weixin
+- First Life: Wang Zhao's friend, lively and outgoing, a key character driving the story
+- Second Life: The top inner disciple of Lingxiao Sect, known as the "Star Immortal Swordsman," possessing part of the Heaven-Defying Sword Soul
+- Third Life: Wang Zhao's close friend, secretly his guardian from the stars, able to foresee crises
+
+### Tang Jiajun
+- First Life: Class monitor of Class 4, Grade 2, Wang Shui's friend, righteous and kind
+- Second Life: A wandering knight in the martial world, nicknamed "War God," with an unruly personality, also possessing part of the Heaven-Defying Sword Soul
+- Third Life: President of the Fighting Club, emanating a warrior's aura, harboring memories of the War God from previous lives
+
+### Tao Liping
+- First Life: English teacher, kind and gentle, often providing psychological guidance to students
+- Second Life: Elder of Lingxiao Sect, seemingly benevolent but actually insidious, representative of Heaven's Will, specializing in hunting Sword Soul possessors
+- Third Life: A seemingly strict counselor, actually a dimensional evil spirit that devours special souls
+
+### Ma Taiyang
+- Appears in Third Life: Leader of the Chips Police Special Action Group, specialized in combating prohibited foods that may cause dimensional chaos
+
+### Li Jingjie
+- Appears in Third Life: An exchange student from Japan who appears to be a master of swordsmanship, actually a dimensional traveler with the ability to cross dimensions
+
+### Yu Zecheng
+- Appears in Third Life: A genius from the School of Science and Engineering, a mad scientist researching the transformation between dimensional energy and physical matter
+
+### Lu Fufan
+- Appears in Third Life: Special envoy of the International Dimensional Management Bureau, monitoring dimensional balance and the dynamics of reincarnators
+
+## Themes of Three Lives
+
+These three stories showcase different aspects of love and growth:
+
+1. **Growth and Trust** - From immaturity to maturity, from insecurity to confidence, the relationship between Wang Zhao and Wang Shui continues to evolve across three lives
+2. **Destiny and Resistance** - From powerless against fate to defying heaven's will, to breaking dimensional constraints
+3. **Protection and Sacrifice** - The essence of love is protection and sacrifice, regardless of which world
+
+## About This Repository
+
+This repository is a literary exploration of the "Three Lives, Three Worlds" theme, presenting the love story of the same couple across different world lines through various literary genres (campus youth, immortal cultivation, fantasy sci-fi). The three stories can be read independently or as a whole to experience a love story that transcends time and space.
+
+> "That promise at the stairway, those two simple bottles of yogurt, became the most beautiful and painful memories of youth. Like falling stars in the night sky, though shattered, they still shine brilliantly."
+
+## File Description
+
+- `flowing_water_falling_flowers.txt` - The campus youth story of the first life
+- `supreme_sword_sovereign.txt` - The immortal cultivation story of the second life
+- `heart_of_reverse_meteor.txt` - The dimensional crossing story of the third life
+
+## Future Plans
+
+- [ ] Add illustrations for each story
+- [ ] Supplement more world-building materials for the three worlds
+- [ ] Consider creating sequel stories after the three lives
+
+---
+
+© 2025 LFF‘s Literary Project | All Rights Reserved
